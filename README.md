@@ -55,12 +55,12 @@ This repository contains code to fine-tune OpenAI's GPT-2 model on a custom data
 
     
 ## Scripts
-- tokenize_and_finetune.py
-- generate_text.py
+- [Tokenize and Fine-tune Script](tokenize_and_finetune.py)
+- [Generate Text script](generate_text.py)
 
 
 ## Dataset
---the csv files
+-- the .csv files
 
 
 ## Project Structure

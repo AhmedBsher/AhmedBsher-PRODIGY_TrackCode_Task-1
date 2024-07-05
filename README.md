@@ -76,6 +76,7 @@ Text Generation with GPT-2/
 ├── tokenize_and_finetune.py
 ├── generate_text.py
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 

@@ -53,11 +53,20 @@ This repository contains code to fine-tune OpenAI's GPT-2 model on a custom data
     python generate_text.py
     ```
 
+    
+## Scripts
+- tokenize_and_finetune.py
+- generate_text.py
+
+
+## Dataset
+--the csv files
+
 
 ## Project Structure
-
+```
 fine-tune-gpt2/
-├── dataset/
+ ├── dataset/
 │ ├── train_dataset.csv
 │ ├── val_dataset.csv
 │ └── test_dataset.csv
@@ -68,7 +77,7 @@ fine-tune-gpt2/
 ├── generate_text.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Acknowledgements
 

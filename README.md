@@ -60,7 +60,7 @@ This repository contains code to fine-tune OpenAI's GPT-2 model on a custom data
 
 
 ## Dataset
--- the .csv files
+- [Dataset](dataset)
 
 
 ## Project Structure

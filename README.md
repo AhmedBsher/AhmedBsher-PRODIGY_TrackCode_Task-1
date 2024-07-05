@@ -65,7 +65,7 @@ This repository contains code to fine-tune OpenAI's GPT-2 model on a custom data
 
 ## Project Structure
 ```
-fine-tune-gpt2/
+Text Generation with GPT-2/
  ├── dataset/
 │ ├── train_dataset.csv
 │ ├── val_dataset.csv

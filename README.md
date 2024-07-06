@@ -85,6 +85,6 @@ Text Generation with GPT-2/
 - Hugging Face for the Transformers library.
 - OpenAI for developing GPT-2.
 
-##License
+## License
 - This project is licensed under the MIT License.
 
